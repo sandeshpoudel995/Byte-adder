@@ -1,4 +1,4 @@
-# byte_adder.py
+# byte-adder.py
 # A simple python program which simulates the behaviour of a digital circuit performing integer addition.
 # It adds two 8 bit binary numbers using different logical gates.
 

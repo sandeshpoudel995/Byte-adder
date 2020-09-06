@@ -5,4 +5,4 @@ This is a python program which simulates the behaviour of a digital circuit perf
 This program work in a loop, reading two integer numbers computing the sum of them and printing the result until instrcted to quit.
 
 feel free to ask if any error occured.
-feel free to contribute.
+feel free to contribute....
